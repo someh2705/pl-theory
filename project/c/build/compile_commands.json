@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/nixos/pl-theory/project/c/build",
+  "command": "/run/current-system/sw/bin/cc -g -o CMakeFiles/c.dir/main.c.o -c /home/nixos/pl-theory/project/c/main.c",
+  "file": "/home/nixos/pl-theory/project/c/main.c",
+  "output": "CMakeFiles/c.dir/main.c.o"
+}
+]

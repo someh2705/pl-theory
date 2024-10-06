@@ -1,0 +1,3 @@
+/home/nixos/pl-theory/project/c/build/CMakeFiles/c.dir
+/home/nixos/pl-theory/project/c/build/CMakeFiles/edit_cache.dir
+/home/nixos/pl-theory/project/c/build/CMakeFiles/rebuild_cache.dir

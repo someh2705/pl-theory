@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/nixos/pl-theory/project/cpp/build",
+  "command": "/run/current-system/sw/bin/c++ -g -o CMakeFiles/cpp.dir/main.cpp.o -c /home/nixos/pl-theory/project/cpp/main.cpp",
+  "file": "/home/nixos/pl-theory/project/cpp/main.cpp",
+  "output": "CMakeFiles/cpp.dir/main.cpp.o"
+}
+]
